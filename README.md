@@ -37,6 +37,9 @@ English and History Teacher at Bilingual Christian Academy and Technology, Kissi
 ## Email: jesshernan0919@gmail.com
 ## Linkedin: /JessicaHernandez
 
+## Publications
+Priming Code-Switching: The Effects of Different Kinds of Codeswitching on Cognitive Control (UF 2019) [https://ufdc.ufl.edu/AA00068608/00001]
+
 
 
 
