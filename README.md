@@ -34,7 +34,7 @@ English and History Teacher at Bilingual Christian Academy and Technology, Kissi
 
 ### Contact Information
 ## Email: jesshernan0919@gmail.com
-## Linkedin:  /JessicaHernandez
+## Linkedin: /JessicaHernandez
 
 
 
