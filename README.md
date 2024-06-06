@@ -8,7 +8,7 @@ GitHub, PostgreSQL, GIT, AWS, Flask
 Excel, Databasing, Pandas, Jupyter Notebook
 
 ### Education
-Data Analytics Bootcamp| University of Central Florida (June 2024)
+Data Analytics Bootcamp | University of Central Florida (June 2024)
 
 BA Lingusitics | University of Florida (May 2019)
 
