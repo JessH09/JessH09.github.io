@@ -8,9 +8,9 @@ GitHub, PostgreSQL, GIT, AWS, Flask
 Excel, Databasing, Pandas, Jupyter Notebook
 
 ### Education
-Data Analytics Bootcamp | University of Central Florida (June 2024)
+Data Analytics Bootcamp|University of Central Florida (June 2024)
 
-BA Lingusitics | University of Florida (May 2019)
+BA Lingusitics|University of Florida (May 2019)
 
 ### Work Experience
 Director at East Orlando School of Music, Orlando FL (May 2024-Present)
@@ -38,7 +38,8 @@ English and History Teacher at Bilingual Christian Academy and Technology, Kissi
 ## Linkedin: /JessicaHernandez
 
 ## Publications
-Priming Code-Switching: The Effects of Different Kinds of Codeswitching on Cognitive Control (UF 2019) [https://ufdc.ufl.edu/AA00068608/00001]
+Priming Code-Switching: The Effects of Different Kinds of Codeswitching on Cognitive Control (UF 2019) 
+https://ufdc.ufl.edu/AA00068608/00001
 
 
 
