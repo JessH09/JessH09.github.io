@@ -8,9 +8,8 @@ GitHub, PostgreSQL, GIT, AWS, Flask
 Excel, Databasing, Pandas, Jupyter Notebook
 
 ### Education
-BA Lingusitics | University of Florida (May 2019)
-
 Data Analytics Bootcamp| University of Central Florida (June 2024)
+BA Lingusitics | University of Florida (May 2019)
 
 ### Work Experience
 Director at East Orlando School of Music, Orlando FL (May 2024-Present)
